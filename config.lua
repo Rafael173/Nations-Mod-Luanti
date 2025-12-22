@@ -1,0 +1,10 @@
+-- nations/config.lua
+NATIONS = {
+    CHUNK_SIZE = 11,
+    POINTS_PER_MEMBER = 10,
+    BASE_POINTS = 10,
+    DOMINATE_COST = 5,
+    DIPLOMACY_COST = 1,
+    POINTS_TICK_SECONDS = 60,
+    HUD_UPDATE_INTERVAL = 0.5,
+}
